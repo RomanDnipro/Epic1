@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CurrentStatusActivity"></activity>
+        <activity android:name=".CurrentStatusActivity" />
+        <activity android:name=".PassExecutionActivity" />
+        <activity android:name=".TypeOfVisaActivity"></activity>
     </application>
 
 </manifest>
