@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="worker_background">#dedede</color>
+    <color name="background_employer">#bcb9b9</color>
+    <color name="top_left_quadrant">#e8e766</color>
+    <color name="top_right_quadrant">#f8e50f</color>
+    <color name="bottom_left_quadrant">#d5d218</color>
+    <color name="bottom_right_quadrant">#fffb00</color>
+</resources>

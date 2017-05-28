@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">roles</string>
+    <string name="worker">Работник</string>
+    <string name="employer">Работодатель</string>
+    <string name="text_for_worker">text for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for worker</string>
+    <string name="text_for_employer">text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer</string>
+    <string name="for_I_do_not_have_foreign_passport">У МЕНЯ НЕТ ЗАГРАНИЧНОГО ПАСПОРТА</string>
+    <string name="for_I_am_already_in_poland">Я УЖЕ НАХОЖУСЬ В ПОЛЬШЕ</string>
+    <string name="for_I_do_not_have_work_visa">У МЕНЯ ЕСТЬ ПАСПОРТ, НО НЕТ РАБОЧЕЙ ВИЗЫ</string>
+    <string name="for_I_have_no_job">У МЕНЯ ЕСТЬ ВИЗА, НО НЕТ РАБОТЫ</string>
+</resources>
