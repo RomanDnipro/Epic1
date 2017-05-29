@@ -11,4 +11,8 @@
     <string name="text_for_registeration_your_self">Text for registration your self. Text for registration your self. Text for registration your self. Text for registration your self. Text for registration your self. Text for registration your self.</string>
     <string name="text_for_need_help">Text for need help. Text for need help. Text for need help. Text for need help. Text for need help. Text for need help. Text for need help.</string>
     <string name="need_help">Нужна помощь</string>
+    <string name="text_for_visa_d_05">Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05. Text for visa D - 05.</string>
+    <string name="type_of_visa_d_05">Виза тип D - 05</string>
+    <string name="type_of_visa_d_07">Виза тип D - 07</string>
+    <string name="text_for_visa_d_07">Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07.</string>
 </resources>
