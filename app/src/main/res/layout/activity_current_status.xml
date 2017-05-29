@@ -13,7 +13,7 @@
         android:orientation="vertical">
 
         <Button
-            android:id="@+id/bt_I_do_not_have_foreign_passport"
+            android:id="@+id/bt_bt_list_of_documents"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"

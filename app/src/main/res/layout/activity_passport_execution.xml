@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.roman.epic1.PassExecutionActivity">
+    tools:context="com.example.roman.epic1.PassportExecutionActivity">
 
     <TextView
         android:id="@+id/tv_register_your_self"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/top_header_background"
-        android:text="Оформить самостоятельно"
+        android:text="@string/register_your_self"
         android:textAlignment="center"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -24,7 +24,7 @@
         android:id="@+id/tv_text_for_registration_your_self"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_for_registeration_your_self"
+        android:text="@string/text_for_registration_your_self"
         android:textSize="18sp" />
 
     <LinearLayout

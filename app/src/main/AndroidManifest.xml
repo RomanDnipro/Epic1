@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".CurrentStatusActivity" />
-        <activity android:name=".PassExecutionActivity" />
+        <activity android:name=".PassportExecutionActivity" />
         <activity android:name=".TypeOfVisaActivity" />
         <activity android:name=".VisaD05Activity"></activity>
     </application>

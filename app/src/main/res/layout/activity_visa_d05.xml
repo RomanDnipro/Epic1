@@ -52,13 +52,13 @@
             android:textAlignment="center" />
 
         <Button
-            android:id="@+id/bt_I_have_no_job"
+            android:id="@+id/bt_find_a_job_with_a_free_invitation"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/bottom_right_quadrant"
             android:hapticFeedbackEnabled="false"
-            android:text="@string/find_a_job_with_a_free_invitation"
+            android:text="@string/for_find_a_job_with_a_free_invitation"
             android:textAlignment="center" />
     </LinearLayout>
 </LinearLayout>

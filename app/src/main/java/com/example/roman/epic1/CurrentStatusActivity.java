@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import static com.example.roman.epic1.R.id.bt_I_am_already_in_poland;
-import static com.example.roman.epic1.R.id.bt_I_do_not_have_foreign_passport;
+import static com.example.roman.epic1.R.id.bt_bt_list_of_documents;
 import static com.example.roman.epic1.R.id.bt_I_do_not_have_work_visa;
 import static com.example.roman.epic1.R.id.bt_I_have_no_job;
 //import static com.example.roman.epic1.R.id.bt_for_employer;
@@ -26,7 +26,7 @@ public class CurrentStatusActivity extends AppCompatActivity implements View.OnC
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_current_status);
 
-        mBtNoPass = (Button) findViewById(bt_I_do_not_have_foreign_passport);
+        mBtNoPass = (Button) findViewById(bt_bt_list_of_documents);
         mBtNoPass.setOnClickListener((View.OnClickListener) this);
         mBtNoVisa = (Button) findViewById(bt_I_do_not_have_work_visa);
         mBtNoVisa.setOnClickListener((View.OnClickListener) this);
@@ -40,8 +40,8 @@ public class CurrentStatusActivity extends AppCompatActivity implements View.OnC
     public void onClick(View v) {
         Intent intent;
         switch (v.getId()) {
-            case bt_I_do_not_have_foreign_passport:
-                intent = new Intent(CurrentStatusActivity.this, PassExecutionActivity.class);
+            case bt_bt_list_of_documents:
+                intent = new Intent(CurrentStatusActivity.this, PassportExecutionActivity.class);
                 startActivity(intent);
                 break;
             case bt_I_do_not_have_work_visa:
