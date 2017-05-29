@@ -15,4 +15,8 @@
     <string name="type_of_visa_d_05">Виза тип D - 05</string>
     <string name="type_of_visa_d_07">Виза тип D - 07</string>
     <string name="text_for_visa_d_07">Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07. Text for visa D - 07.</string>
+    <string name="for_nearest_agents">Ближайшие агенты</string>
+    <string name="for_list_of_documents">Перечень документов</string>
+    <string name="for_appoint_admission_date">Назначить дату записи</string>
+    <string name="find_a_job_with_a_free_invitation">НАЙТИ ВАКАНСИЮ С БЕСПЛАТНЫМ ПРИГЛАШЕНИЕМ</string>
 </resources>

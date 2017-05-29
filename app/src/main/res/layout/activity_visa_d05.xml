@@ -4,49 +4,51 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.roman.epic1.CurrentStatusActivity">
+    android:orientation="vertical"
+    tools:context="com.example.roman.epic1.VisaD05Activity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:orientation="vertical">
+        android:orientation="horizontal">
 
         <Button
-            android:id="@+id/bt_I_do_not_have_foreign_passport"
+            android:id="@+id/bt_list_of_documents"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/top_left_quadrant"
             android:hapticFeedbackEnabled="false"
-            android:text="@string/for_I_do_not_have_foreign_passport"
+            android:text="@string/for_list_of_documents"
             android:textAlignment="center" />
 
         <Button
-            android:id="@+id/bt_I_am_already_in_poland"
+            android:id="@+id/bt_nearest_agents"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@color/bottom_left_quadrant"
+            android:background="@color/top_right_quadrant"
             android:hapticFeedbackEnabled="false"
-            android:text="@string/for_I_am_already_in_poland"
+            android:text="@string/for_nearest_agents"
             android:textAlignment="center" />
+
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:orientation="vertical">
+        android:orientation="horizontal">
 
         <Button
-            android:id="@+id/bt_I_do_not_have_work_visa"
+            android:id="@+id/bt_appoint_admission_date"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@color/top_right_quadrant"
+            android:background="@color/bottom_left_quadrant"
             android:hapticFeedbackEnabled="false"
-            android:text="@string/for_I_do_not_have_work_visa"
+            android:text="@string/for_appoint_admission_date"
             android:textAlignment="center" />
 
         <Button
@@ -56,7 +58,7 @@
             android:layout_weight="1"
             android:background="@color/bottom_right_quadrant"
             android:hapticFeedbackEnabled="false"
-            android:text="@string/for_I_have_no_job"
+            android:text="@string/find_a_job_with_a_free_invitation"
             android:textAlignment="center" />
     </LinearLayout>
 </LinearLayout>
