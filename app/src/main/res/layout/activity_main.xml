@@ -11,7 +11,7 @@
         android:id="@+id/tv_worker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/worker_background"
+        android:background="@color/top_header_background"
         android:text="@string/worker"
         android:textAlignment="center"
         android:textSize="30sp"
@@ -43,7 +43,7 @@
         android:id="@+id/tv_employer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/background_employer"
+        android:background="@color/bottom_header_background"
         android:text="@string/employer"
         android:textAlignment="center"
         android:textSize="30sp" />
